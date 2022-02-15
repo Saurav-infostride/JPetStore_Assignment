@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/SauravSharma/IdeaProjects/J_Pet_Store">
+        <classes>
+            <class name="com.Test.AddToCartTest">
+            </class>
+            <class name="com.Test.FishTest">
+            </class>
+            <class name="com.Test.HomeTest">
+            </class>
+            <class name="com.Test.RegisterTest">
+            </class>
+            <class name="com.Test.SignInTest">
+            </class>
+        </classes>
+    </test>
+</suite>
